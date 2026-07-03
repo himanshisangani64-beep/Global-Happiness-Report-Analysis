@@ -1,6 +1,6 @@
 #  Global Happiness Report Analysis
 
-A data analysis and visualization project using the **World Happiness Report** dataset. This project explores the factors influencing happiness across different countries using Python, Pandas, Matplotlib, and Seaborn.
+A data analysis and visualization project using the **WHR_2015** dataset. This project explores the factors influencing happiness across different countries using Python, Pandas, Matplotlib, and Seaborn.
 
 ---
 
